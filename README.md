@@ -1,2 +1,18 @@
-# Brand-Template
-Standardised brand repository template for the Ourgani ecosystem. Provides consistent structure, deployment rules, and system integration patterns for all new brand-level projects using Cloudflare Pages and a unified main-site architecture.
+# BRAND SYSTEM NODE
+
+This repository is a node within the Ourgani ecosystem.
+
+## Role
+Defines execution layer for services, products, or creative output.
+
+## Architecture
+- System Layer: Ourgani
+- Logic Layer: ProtoSynthesis
+- Execution Layer: Brand
+
+## Deployment
+Deployed via Cloudflare Pages using `/main-site` as root.
+
+## Rule
+This repo does not define its own architecture.
+It inherits system architecture from Ourgani.
