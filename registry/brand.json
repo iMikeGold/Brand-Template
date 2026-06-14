@@ -1,0 +1,11 @@
+{
+  "brand_name": "",
+  "pillar": "",
+  "type": "",
+  "role": "",
+  "system": "Ourgani",
+  "deployment": {
+    "platform": "cloudflare-pages",
+    "root": "main-site"
+  }
+}
