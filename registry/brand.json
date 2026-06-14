@@ -1,11 +1,28 @@
 {
+  "id": "",
   "brand_name": "",
+  "slug": "",
   "pillar": "",
   "type": "",
   "role": "",
+  "status": "active",
   "system": "Ourgani",
+
+  "relationships": {
+    "parent_system": "Ourgani",
+    "connected_brands": []
+  },
+
   "deployment": {
     "platform": "cloudflare-pages",
-    "root": "main-site"
+    "root": "main-site",
+    "repo": "",
+    "primary_domain": "",
+    "secondary_domains": []
+  },
+
+  "versioning": {
+    "version": "1.0.0",
+    "last_updated": ""
   }
 }
